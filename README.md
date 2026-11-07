@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:8957e5&height=240&section=header&text=Rin%20Layheang&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20EdTech%20Builder%20%C2%B7%20Phnom%20Penh%20%F0%9F%87%B0%F0%9F%87%AD&descSize=18&descAlignY=62&animation=fadeIn" alt="Rin Layheang" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Rin%20Layheang&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20EdTech%20Builder%20%7C%20Phnom%20Penh&descSize=18&descAlignY=60&animation=fadeIn" alt="Rin Layheang" />
 
 <div align="center">
 
@@ -104,4 +104,4 @@ Khmer-language **Data Science & AI** lessons for TikTok, with custom visuals and
   <a href="https://github.com/RinLayheang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,100:1f6feb&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,100:1f6feb&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&fontAlignY=65" alt="footer" />
