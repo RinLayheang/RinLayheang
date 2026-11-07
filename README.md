@@ -17,11 +17,11 @@
 ```js
 const layheang = {
   role:      "Year 3 Computer Science student @ CADT",
-  location:  "Phnom Penh, Cambodia ",
+  location:  "Phnom Penh, Cambodia",
   building:  ["Sala AI / MathMate", "ML trading systems", "Kon Mus content"],
   stack:     ["TypeScript", "React", "Next.js", "Python", "C++"],
-  languages: ["ខ្មែរ", "English"],
-  funFact:   "I explain Data Science to Cambodians in Khmer ",
+  languages: ["Khmer", "English"],
+  funFact:   "I explain Data Science to Cambodians in Khmer",
   lookingFor: "collaborators who like AI + education",
 };
 ```
