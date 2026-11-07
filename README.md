@@ -30,6 +30,16 @@ type Developer = {
 
 <br/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RinLayheang/RinLayheang/main/assets/insights.svg?v=1" alt="contribution insights" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RinLayheang/RinLayheang/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</p>
+
+<br/>
+
 ## Now building
 
 <table>
