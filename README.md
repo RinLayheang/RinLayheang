@@ -40,42 +40,6 @@ type Developer = {
 
 <br/>
 
-## Now building
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<img src="https://img.shields.io/badge/01-SALA%20AI-8957e5?style=flat-square&labelColor=0d1117" />
-
-**Sala AI / MathMate**
-
-An AI-powered, bilingual math learning platform for Cambodian Grade 12 students.
-
-</td>
-<td width="33%" valign="top">
-
-<img src="https://img.shields.io/badge/02-ML%20TRADING-3fb950?style=flat-square&labelColor=0d1117" />
-
-**Signal Lab**
-
-LightGBM models for Bitcoin and Gold, tested with walk-forward validation.
-
-</td>
-<td width="33%" valign="top">
-
-<img src="https://img.shields.io/badge/03-KON%20MUS-f85149?style=flat-square&labelColor=0d1117" />
-
-**Khmer Data Science**
-
-Short Khmer lessons on data science and AI, with custom visuals and voice.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## Stack
 
 <p align="center">
