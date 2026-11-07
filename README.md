@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=%3E+Hello+World%2C+I'm+Layheang+%F0%9F%91%8B;%3E+Building+AI+for+Cambodian+students+%F0%9F%8E%93;%3E+Teaching+Data+Science+in+Khmer+%F0%9F%93%8A;%3E+Training+ML+trading+signals+%F0%9F%93%88)](https://github.com/RinLayheang)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=%3E+Hello+World%2C+I'm+Layheang+;%3E+Building+AI+for+Cambodian+students+;%3E+Teaching+Data+Science+in+Khmer+;%3E+Training+ML+trading+signals+)](https://github.com/RinLayheang)
 
 ![Visitors](https://komarev.com/ghpvc/?username=RinLayheang&label=VISITORS&color=1f6feb&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/RinLayheang?style=for-the-badge&logo=github&color=8957e5&labelColor=0d1117)
@@ -12,29 +12,29 @@
 
 ---
 
-## 🧑‍💻 `whoami`
+## `whoami`
 
 ```js
 const layheang = {
   role:      "Year 3 Computer Science student @ CADT",
-  location:  "Phnom Penh, Cambodia 🇰🇭",
+  location:  "Phnom Penh, Cambodia ",
   building:  ["Sala AI / MathMate", "ML trading systems", "Kon Mus content"],
   stack:     ["TypeScript", "React", "Next.js", "Python", "C++"],
   languages: ["ខ្មែរ", "English"],
-  funFact:   "I explain Data Science to Cambodians in Khmer 🎬",
+  funFact:   "I explain Data Science to Cambodians in Khmer ",
   lookingFor: "collaborators who like AI + education",
 };
 ```
 
 ---
 
-## 🚀 Currently working on
+## Currently working on
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🧮 Sala AI / MathMate
+### Sala AI / MathMate
 An AI-powered, **bilingual** math learning platform for Cambodian **Grade 12** students.
 
 ![](https://img.shields.io/badge/AI-EdTech-8957e5?style=flat-square)
@@ -43,7 +43,7 @@ An AI-powered, **bilingual** math learning platform for Cambodian **Grade 12** s
 </td>
 <td width="33%" valign="top">
 
-### 📈 ML Trading Lab
+### ML Trading Lab
 Signals for **Bitcoin & Gold** using **LightGBM** with walk-forward validation.
 
 ![](https://img.shields.io/badge/LightGBM-3fb950?style=flat-square)
@@ -52,7 +52,7 @@ Signals for **Bitcoin & Gold** using **LightGBM** with walk-forward validation.
 </td>
 <td width="33%" valign="top">
 
-### 🦟 Kon Mus
+### Kon Mus
 Khmer-language **Data Science & AI** lessons for TikTok, with custom visuals and voice.
 
 ![](https://img.shields.io/badge/Content-Khmer-f85149?style=flat-square)
@@ -64,7 +64,7 @@ Khmer-language **Data Science & AI** lessons for TikTok, with custom visuals and
 
 ---
 
-## ⚡ Tech arsenal
+## Tech arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,cpp,c,html,css,jupyter,git,vercel&perline=12" alt="skills" />
@@ -72,9 +72,9 @@ Khmer-language **Data Science & AI** lessons for TikTok, with custom visuals and
 
 ---
 
-## 📂 Repo spotlight
+## Repo spotlight
 
-| 🗂️ Repo | 🏷️ Language | 📝 About |
+|  Repo |  Language |  About |
 |---|---|---|
 | [**khmerpath**](https://github.com/RinLayheang/khmerpath) | ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Learning path app |
 | [**SmartLibrary**](https://github.com/RinLayheang/SmartLibrary) | ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Library system |
@@ -85,7 +85,7 @@ Khmer-language **Data Science & AI** lessons for TikTok, with custom visuals and
 
 ---
 
-## 📊 Activity
+## Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinLayheang&theme=github-dark-blue&hide_border=true&background=0d1117" alt="streak" />
@@ -97,7 +97,7 @@ Khmer-language **Data Science & AI** lessons for TikTok, with custom visuals and
 
 ---
 
-## 🌐 Let's connect
+## Let's connect
 
 <p align="center">
   <a href="mailto:layheang.rin@student.cadt.edu.kh"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
