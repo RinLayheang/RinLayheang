@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/RinLayheang/RinLayheang/main/assets/banner.gif" alt="animated intro" />
+  <img width="100%" src="https://raw.githubusercontent.com/RinLayheang/RinLayheang/main/assets/banner.gif?v=2" alt="animated intro" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:8957e5&height=240&section=header&text=Rin%20Layheang&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20and%20EdTech%20Builder&descSize=19&descAlignY=62&animation=fadeIn" alt="Rin Layheang" />
