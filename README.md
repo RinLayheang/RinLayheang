@@ -1,89 +1,131 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Rin%20Layheang&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20EdTech%20Builder%20%7C%20Phnom%20Penh&descSize=18&descAlignY=60&animation=fadeIn" alt="Rin Layheang" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:8957e5&height=240&section=header&text=Rin%20Layheang&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20and%20EdTech%20Builder&descSize=19&descAlignY=62&animation=fadeIn" alt="Rin Layheang" />
 
 <div align="center">
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=%3E+Hello+World%2C+I'm+Layheang+;%3E+Building+AI+for+Cambodian+students+;%3E+Teaching+Data+Science+in+Khmer+;%3E+Training+ML+trading+signals+)](https://github.com/RinLayheang)
+<a href="https://github.com/RinLayheang"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=44&lines=Building+AI+for+Cambodian+students;Teaching+Data+Science+in+Khmer;Training+ML+trading+signals;Year+3+CS+%40+CADT%2C+Phnom+Penh" alt="typing" /></a>
 
-![Visitors](https://komarev.com/ghpvc/?username=RinLayheang&label=VISITORS&color=1f6feb&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/RinLayheang?style=for-the-badge&logo=github&color=8957e5&labelColor=0d1117)
-![Repos](https://img.shields.io/badge/Public%20Repos-31-3fb950?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-3fb950?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/RinLayheang?style=for-the-badge&logo=github&color=8957e5&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=RinLayheang&label=VIEWS&color=1f6feb&style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
----
+<br/>
 
-## `whoami`
+## About
 
-```js
-const layheang = {
-  role:      "Year 3 Computer Science student @ CADT",
-  location:  "Phnom Penh, Cambodia",
-  building:  ["Sala AI / MathMate", "ML trading systems", "Kon Mus content"],
-  stack:     ["TypeScript", "React", "Next.js", "Python", "C++"],
-  languages: ["Khmer", "English"],
-  funFact:   "I explain Data Science to Cambodians in Khmer",
-  lookingFor: "collaborators who like AI + education",
+```ts
+type Developer = {
+  name:      "Rin Layheang";
+  studying:  "Computer Science, Year 3 @ CADT";
+  city:      "Phnom Penh, Cambodia";
+  focus:     ["AI", "EdTech", "Data Science", "Web"];
+  speaks:    ["Khmer", "English"];
 };
 ```
 
----
+<br/>
 
-## Currently working on
+## Now building
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### Sala AI / MathMate
-An AI-powered, **bilingual** math learning platform for Cambodian **Grade 12** students.
+<img src="https://img.shields.io/badge/01-SALA%20AI-8957e5?style=flat-square&labelColor=0d1117" />
 
-![](https://img.shields.io/badge/AI-EdTech-8957e5?style=flat-square)
-![](https://img.shields.io/badge/Khmer-English-1f6feb?style=flat-square)
+**Sala AI / MathMate**
 
-</td>
-<td width="33%" valign="top">
-
-### ML Trading Lab
-Signals for **Bitcoin & Gold** using **LightGBM** with walk-forward validation.
-
-![](https://img.shields.io/badge/LightGBM-3fb950?style=flat-square)
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+An AI-powered, bilingual math learning platform for Cambodian Grade 12 students.
 
 </td>
 <td width="33%" valign="top">
 
-### Kon Mus
-Khmer-language **Data Science & AI** lessons for TikTok, with custom visuals and voice.
+<img src="https://img.shields.io/badge/02-ML%20TRADING-3fb950?style=flat-square&labelColor=0d1117" />
 
-![](https://img.shields.io/badge/Content-Khmer-f85149?style=flat-square)
-![](https://img.shields.io/badge/Data%20Science-d29922?style=flat-square)
+**Signal Lab**
+
+LightGBM models for Bitcoin and Gold, tested with walk-forward validation.
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://img.shields.io/badge/03-KON%20MUS-f85149?style=flat-square&labelColor=0d1117" />
+
+**Khmer Data Science**
+
+Short Khmer lessons on data science and AI, with custom visuals and voice.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## Tech arsenal
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,cpp,c,html,css,jupyter,git,vercel&perline=12" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,cpp,html,css,jupyter,git,vercel&perline=11&theme=dark" alt="skills" />
 </p>
 
----
+<br/>
 
-## Repo spotlight
+## Selected work
 
-|  Repo |  Language |  About |
-|---|---|---|
-| [**khmerpath**](https://github.com/RinLayheang/khmerpath) | ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Learning path app |
-| [**SmartLibrary**](https://github.com/RinLayheang/SmartLibrary) | ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Library system |
-| [**konmus_detect**](https://github.com/RinLayheang/konmus_detect) | ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Detection project |
-| [**weather-analysis**](https://github.com/RinLayheang/weather-analysis) | ![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | Weather data analysis |
-| [**Data-structure-project**](https://github.com/RinLayheang/Data-structure-project) | ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Don Trey music playlist |
-| [**my-portfolio2**](https://github.com/RinLayheang/my-portfolio2) | ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Personal portfolio |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**[khmerpath](https://github.com/RinLayheang/khmerpath)**<br/>
+<sub>Learning path app</sub><br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+**[SmartLibrary](https://github.com/RinLayheang/SmartLibrary)**<br/>
+<sub>Library system</sub><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[konmus_detect](https://github.com/RinLayheang/konmus_detect)**<br/>
+<sub>Detection project</sub><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+</td>
+<td valign="top">
+
+**[weather-analysis](https://github.com/RinLayheang/weather-analysis)**<br/>
+<sub>Weather data analysis</sub><br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[Data-structure-project](https://github.com/RinLayheang/Data-structure-project)**<br/>
+<sub>Don Trey, a music playlist</sub><br/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+
+</td>
+<td valign="top">
+
+**[my-portfolio2](https://github.com/RinLayheang/my-portfolio2)**<br/>
+<sub>Personal portfolio</sub><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## Activity
 
@@ -92,16 +134,15 @@ Khmer-language **Data Science & AI** lessons for TikTok, with custom visuals and
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RinLayheang/RinLayheang/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/RinLayheang/RinLayheang/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
 
----
+<br/>
 
-## Let's connect
+## Contact
 
 <p align="center">
-  <a href="mailto:layheang.rin@student.cadt.edu.kh"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/RinLayheang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:layheang.rin@student.cadt.edu.kh"><img src="https://img.shields.io/badge/EMAIL-layheang.rin%40student.cadt.edu.kh-1f6feb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,100:1f6feb&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&fontAlignY=65" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,55:1f6feb,100:0d1117&height=120&section=footer" alt="footer" />
