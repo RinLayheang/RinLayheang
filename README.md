@@ -76,54 +76,18 @@ Short Khmer lessons on data science and AI, with custom visuals and voice.
 
 ## Selected work
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-**[khmerpath](https://github.com/RinLayheang/khmerpath)**<br/>
-<sub>Learning path app</sub><br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-
-</td>
-<td width="50%" valign="top">
-
-**[SmartLibrary](https://github.com/RinLayheang/SmartLibrary)**<br/>
-<sub>Library system</sub><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-</td>
+<td width="50%" align="center"><a href="https://github.com/RinLayheang/khmerpath"><img width="100%" src="https://raw.githubusercontent.com/RinLayheang/RinLayheang/main/assets/project-1.svg?v=1" alt="khmerpath" /></a></td>
+<td width="50%" align="center"><a href="https://github.com/RinLayheang/SmartLibrary"><img width="100%" src="https://raw.githubusercontent.com/RinLayheang/RinLayheang/main/assets/project-2.svg?v=1" alt="SmartLibrary" /></a></td>
 </tr>
 <tr>
-<td valign="top">
-
-**[konmus_detect](https://github.com/RinLayheang/konmus_detect)**<br/>
-<sub>Detection project</sub><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-</td>
-<td valign="top">
-
-**[weather-analysis](https://github.com/RinLayheang/weather-analysis)**<br/>
-<sub>Weather data analysis</sub><br/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-
-</td>
+<td width="50%" align="center"><a href="https://github.com/RinLayheang/konmus_detect"><img width="100%" src="https://raw.githubusercontent.com/RinLayheang/RinLayheang/main/assets/project-3.svg?v=1" alt="konmus_detect" /></a></td>
+<td width="50%" align="center"><a href="https://github.com/RinLayheang/weather-analysis"><img width="100%" src="https://raw.githubusercontent.com/RinLayheang/RinLayheang/main/assets/project-4.svg?v=1" alt="weather-analysis" /></a></td>
 </tr>
 <tr>
-<td valign="top">
-
-**[Data-structure-project](https://github.com/RinLayheang/Data-structure-project)**<br/>
-<sub>Don Trey, a music playlist</sub><br/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-
-</td>
-<td valign="top">
-
-**[my-portfolio2](https://github.com/RinLayheang/my-portfolio2)**<br/>
-<sub>Personal portfolio</sub><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-</td>
+<td width="50%" align="center"><a href="https://github.com/RinLayheang/Data-structure-project"><img width="100%" src="https://raw.githubusercontent.com/RinLayheang/RinLayheang/main/assets/project-5.svg?v=1" alt="Data-structure-project" /></a></td>
+<td width="50%" align="center"><a href="https://github.com/RinLayheang/my-portfolio2"><img width="100%" src="https://raw.githubusercontent.com/RinLayheang/RinLayheang/main/assets/project-6.svg?v=1" alt="my-portfolio2" /></a></td>
 </tr>
 </table>
 
