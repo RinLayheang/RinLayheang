@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="130" viewBox="0 0 420 130" font-family="Segoe UI,Arial,sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<rect x="1" y="1" width="418" height="128" rx="12" fill="url(#g)" stroke="#30363d"/>
+<rect x="1" y="1" width="6" height="128" rx="3" fill="#58a6ff"/>
+<text x="26" y="40" fill="#58a6ff" font-size="12" font-weight="600" letter-spacing="1.5">01  PROJECT</text>
+<text x="26" y="68" fill="#e6edf3" font-size="21" font-weight="700">khmerpath</text>
+<text x="26" y="90" fill="#8b949e" font-size="13">Learning path app</text>
+<circle cx="32" cy="112" r="5" fill="#3178c6"/>
+<text x="44" y="116" fill="#c9d1d9" font-size="12">TypeScript</text>
+<text x="394" y="116" fill="#6e7681" font-size="11" text-anchor="end">Updated Oct 2026</text>
+</svg>
