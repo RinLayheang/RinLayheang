@@ -18,17 +18,26 @@
 
 ## About
 
-```ts
-type Developer = {
-  name:      "Rin Layheang";
-  studying:  "Computer Science, Year 3 @ CADT";
-  city:      "Phnom Penh, Cambodia";
-  focus:     ["AI", "EdTech", "Data Science", "Web"];
-  speaks:    ["Khmer", "English"];
-};
-```
+<table>
+<tr>
+<td width="55%" valign="middle">
 
-<br/>
+Hi, I'm **Rin Layheang**, a **Year 2 Computer Science** student at **CADT** (Cambodia Academy of Digital Technology) in Phnom Penh, Cambodia.
+
+I like building web apps and exploring **AI, EdTech and data science**. I speak **Khmer and English**, and I'm open to collaboration.
+
+- Learning JavaScript, TypeScript, React, Python and C++
+- Making Khmer data science lessons as Kon Mus
+- Working on projects like Sala AI / MathMate
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/RinLayheang/RinLayheang/main/assets/about.gif?v=1" alt="coding animation" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RinLayheang/RinLayheang/main/assets/insights.svg?v=1" alt="contribution insights" />
