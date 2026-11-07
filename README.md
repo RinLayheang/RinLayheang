@@ -2,8 +2,6 @@
   <img width="100%" src="https://raw.githubusercontent.com/RinLayheang/RinLayheang/main/assets/banner.gif?v=2" alt="animated intro" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:8957e5&height=240&section=header&text=Rin%20Layheang&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20and%20EdTech%20Builder&descSize=19&descAlignY=62&animation=fadeIn" alt="Rin Layheang" />
-
 <div align="center">
 
 <a href="https://github.com/RinLayheang"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=44&lines=Building+AI+for+Cambodian+students;Teaching+Data+Science+in+Khmer;Training+ML+trading+signals;Year+3+CS+%40+CADT%2C+Phnom+Penh" alt="typing" /></a>
@@ -152,5 +150,3 @@ Short Khmer lessons on data science and AI, with custom visuals and voice.
 <p align="center">
   <a href="mailto:layheang.rin@student.cadt.edu.kh"><img src="https://img.shields.io/badge/EMAIL-layheang.rin%40student.cadt.edu.kh-1f6feb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,55:1f6feb,100:0d1117&height=120&section=footer" alt="footer" />
